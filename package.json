@@ -22,7 +22,7 @@
     "@glennsl/bs-jest": "^0.4.8"
   },
   "dependencies": {
-    "reason-react": "^0.7.0"
+    "reason-react": "^0.9.1"
   }
 }
 
